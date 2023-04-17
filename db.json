@@ -1,0 +1,61 @@
+{
+  "cars": [
+    {
+      "model": "asdasd",
+      "number": "asdasd",
+      "color": "asdasd",
+      "type": "asdasd",
+      "id": 1
+    },
+    {
+      "model": "opel",
+      "year": "",
+      "number": "BH3323",
+      "color": "green",
+      "isNew": "",
+      "type": "sedan",
+      "vEngine": "",
+      "id": 2
+    },
+    {
+      "model": "Mazda",
+      "year": "",
+      "number": "BH3536",
+      "color": "green",
+      "isNew": "",
+      "type": "Sedan",
+      "vEngine": "",
+      "id": 3
+    },
+    {
+      "model": "mercedes",
+      "year": "1999",
+      "number": "BH3532",
+      "color": "green",
+      "isNew": "",
+      "type": "sedan",
+      "vEngine": "",
+      "id": 4
+    },
+    {
+      "model": "mercedes",
+      "year": "2000",
+      "number": "BH3536",
+      "color": "black",
+      "isNew": "!new",
+      "type": "SEDAN",
+      "vEngine": "",
+      "id": 5
+    },
+    {
+      "model": "Mercedes",
+      "year": "1999",
+      "number": "BH3536",
+      "color": "black",
+      "isNew": "old",
+      "type": "sedan",
+      "vEngine": "3.2",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<p>
+  <mat-toolbar>
+    <button
+      mat-icon-button
+      class="example-icon"
+      aria-label="Example icon-button with menu icon"
+    >
+      <mat-icon>menu</mat-icon>
+    </button>
+
+    <span>Car App</span>
+
+    <span class="example-spacer"></span>
+
+    <div class="example-button-row">
+      <button routerLink="home" mat-raised-button>Home</button>
+      <button mat-raised-button (click)="addCar()">Add Car</button>
+      <button routerLink="list-cars" mat-raised-button>List</button>
+      <button routerLink="about" mat-raised-button>About</button>
+    </div>
+  </mat-toolbar>
+</p>
